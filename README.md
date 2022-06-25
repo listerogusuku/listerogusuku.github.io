@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Bem-vindo!
 
+Se você desejar conhecer minhas produções no YouTube, é só acessar [este link.](https://www.youtube.com/channel/UCJGD3ksGrX45TId4EyQKaiQ)
+
+Se desejar conhecer meu perfil no LinkedIn, é só clicar [aqui!](https://www.linkedin.com/in/lister-ogusuku-ribeiro-6a1052148/)
+
+<!---
 You can use the [editor on GitHub](https://github.com/listerogusuku/listerogusuku.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -35,3 +41,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+-->
